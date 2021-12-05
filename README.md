@@ -14,7 +14,7 @@ pip install -r requirements.txt
 
 4. В файле settings.py настроить отправку электронной почты:
 
-    EMAIL_HOST_USER = 'почта_откуда_будут_отправляться_письма@mail.com'
+    EMAIL_HOST_USER = 'почта_откуда_будут_отправляться_письма@mail.com'  
     EMAIL_HOST_PASSWORD = 'пароль_к_почте'
 
 5. Запустить сервер  
